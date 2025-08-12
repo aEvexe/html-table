@@ -1,0 +1,26 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: sans-serif;
+}
+
+.main{
+     width: 100%;
+     height: 100vh;
+     background: #91BA84;
+}
+
+.header{
+     width: 100%;
+     height: 60px;
+     background: rgba(255, 255, 255, 0.743);
+}
+
+.card{
+     width: 400px;
+     height: 350px;
+     background: white;
+     margin: 30px auto;
+     border-radius: 14px;
+}
